@@ -9,3 +9,14 @@ Nesse projeto fiquei responsável pela coleta e tratamento dos dados, etapa impo
 ## Como executar:
 
 Basta criar uma conta no Databricks Community Edition, importar os notebooks, criar um cluster spark e executar o algoritmo.
+
+#### Grupo desenvolvedor:
+
+Amanda Sayuri Kuroiva,
+Ebian de Vasconcelos Silva Junior,
+Fabiano Pereira Cavalcante,
+Gustavo Sales de Camargo,
+Hugo de Medeiros Salomão Mendes,
+Janderson Carneiro Silva,
+Josué Antônio da Silva,
+Tiago Prado de Souza e Silva.
