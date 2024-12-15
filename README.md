@@ -10,6 +10,11 @@ Nesse projeto fiquei responsável pela coleta e tratamento dos dados, etapa impo
 
 Basta criar uma conta no Databricks Community Edition, importar os notebooks, criar um cluster Spark e executar o algoritmo.
 
+Os Datasets estão disponíveis nos links abaixo:
+
+INPE (últimos 10 anos): https://terrabrasilis.dpi.inpe.br/queimadas/bdqueimadas/#exportar-dados
+INMET (Estações de SP): https://bdmep.inmet.gov.br/
+
 #### Grupo desenvolvedor:
 
 Amanda Sayuri Kuroiva,
